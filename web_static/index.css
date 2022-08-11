@@ -1,0 +1,11 @@
+h1{
+    background-color :#FF0000;
+    height: 70px;
+    width: 100%;
+}
+footer{
+    background-color: rgb(17, 255, 0);
+    height: 60px;
+    width: 100%;
+    text-align: center;
+}
