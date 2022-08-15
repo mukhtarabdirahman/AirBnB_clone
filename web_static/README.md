@@ -1,1 +1,0 @@
-This is a continuation of Airbnb clone project
