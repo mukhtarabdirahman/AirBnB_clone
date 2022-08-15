@@ -1,0 +1,1 @@
+web statics for airbnb clone
